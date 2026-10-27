@@ -1,0 +1,7 @@
+{
+  "source_file": "data/raw/diabetic_data.csv",
+  "extraction_rows": 101766,
+  "curated_rows": 101766,
+  "rejected_rows": 0,
+  "extraction_status": "success"
+}

@@ -1,0 +1,33 @@
+# Git and environment
+.git
+.gitignore
+.env
+.env.example
+
+# Virtual environment and IDE
+venv/
+.venv/
+.vscode/
+.idea/
+
+# Python cache and testing
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+
+# MLflow tracking and artifacts
+mlruns/
+mlflow.db
+
+# Project folders not needed by the API container
+data/
+reports/
+dags/
+sql/
+src/
+.streamlit/
+README.md
+docker-compose.yml

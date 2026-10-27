@@ -1,0 +1,8 @@
+{
+    "missing_values": 374017,
+    "duplicate_rows": 0,
+    "missing_required_columns": [],
+    "invalid_time_in_hospital": 0,
+    "invalid_readmitted_values": 0,
+    "quality_status": "PASS"
+}
